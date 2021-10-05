@@ -1,8 +1,9 @@
 #include "main.h"
 
-/**documentación**/
-
-int main(void)
+/*
+ *
+ *documentación
+*/int main(void)
 {
 	_putchar('_');
 	_putchar('p');
