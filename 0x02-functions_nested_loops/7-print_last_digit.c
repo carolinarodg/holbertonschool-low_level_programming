@@ -4,6 +4,7 @@
  */int print_last_digit(int pld)
 {
 	int ld;
+
 	ld = (pld % 10);
 	if (ld < 0)
 	{
